@@ -22,7 +22,7 @@ Oman ISMS-ympäristöni keskeinen raja sijaitsee kotiverkon ja internetin välil
 
 Visualisoitu:
 
-<img width="267" height="359" alt="image" src="https://github.com/user-attachments/assets/c55fac61-4288-4705-879e-48ceade45eb2" />
+![Verkkokaavio](Kuva.png)
 <p></p>
 
 **Evidence Addendum:**
