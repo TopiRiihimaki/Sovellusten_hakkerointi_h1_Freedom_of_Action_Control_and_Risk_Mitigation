@@ -1,4 +1,4 @@
-ISMS piiriini kuuluu:
+ISMS:n piiriini kuuluu:
 -	Windows-kannettava, jota käytän kurssilla
 -	Docker Desktop ja sen kautta käytettävä Ubuntu-ympäristö
 -	Oma kotireititin ja Wi-Fi-verkko
@@ -6,9 +6,9 @@ ISMS piiriini kuuluu:
 -	Oma puhelin, jota käytän MFA:han
 -	Kurssiin liittyvät tiedot ja materiaalit
 -	Kurssiin liittyvät käyttäjätunnukset, salasanat sekä MFA-tiedot
--	OneDrive ja Github
+-	OneDrive ja GitHub
 
-Asiat jotka EIVÄT kuulu omaan ISMS piiriini:
+Asiat jotka EIVÄT kuulu omaan ISMS:n piiriini:
 -	Muiden perheenjäsenten tietokoneet
 -	Muiden perheenjäsenten puhelimet
 -	Muut heidän käyttämänsä laitteet
@@ -18,13 +18,28 @@ Syitä miksi nämä ovat ISMS:n ulkopuolella:
 -	En hallinnoi niitä
 -	Internet-palveluntarjoajan oma infrastruktuuri, koska se on oman kotiverkkoni ulkopuolella enkä voi hallita tai ylläpitää sitä.
 
-Oman ISMS-ympäristöni keskeinen raja sijaitsee kotiverkon ja internetin välillä. Kotiverkkoon kuuluvat oma reititin, Wi-Fi-verkko ja siihen yhdistetyt omat laitteet. Reititin toimii rajapintana oman kotiverkon ja internetin välillä. Kotiverkosta muodostetaan yhteyksiä ulkopuolisiin pilvipalveluihin, kuten OneDriveen ja GitHubiin. Näiden palveluiden ja ympäristöjen ylläpito ei kuulu omaan hallintaani. Internet-yhteyden osalta rajapintana toimii oma reititin ja sen palomuuri.
+Oman ISMS-ympäristöni keskeinen raja sijaitsee kotiverkon ja internetin välillä. Kotiverkkoon kuuluvat oma reititin, Wi-Fi-verkko ja siihen yhdistetyt omat laitteet. Reititin toimii rajapintana oman kotiverkon ja internetin välillä. Kotiverkosta muodostetaan yhteyksiä ulkopuolisiin pilvipalveluihin, kuten OneDriveen, GitHubiin sekä oppilaitoksen järjestelmiin. Näiden palveluiden ja ympäristöjen ylläpito ei kuulu omaan hallintaani. Internet-yhteyden osalta rajapintana toimii oma reititin ja sen palomuuri.
 
 Visualisoitu:
 
 <img width="267" height="359" alt="image" src="https://github.com/user-attachments/assets/c55fac61-4288-4705-879e-48ceade45eb2" />
 <p></p>
 
+**Evidence Addendum:**
+
+**Windows-kannettava:** Voisin esittää kuvakaappauksen Windowsin järjestelmätiedoista.
+
+**Docker Desktop ja Ubuntu:** Voisin esittää kuvakaappauksen Docker Desktopista.
+
+**Kotireititin ja Wi-Fi:** Voisin esittää kuvakaappauksen reitittimen hallintasivulta, jossa näkyvät verkko-, Wi-Fi- ja palomuuriasetukset.
+
+**Tulostin:** Voisin esittää kotiverkon laiteluettelon tai tulostimen verkkoasetukset.
+
+**Puhelin ja MFA:** Voisin esittää kuvakaappauksen tilin turvallisuusasetuksista.
+
+**Kurssiin liittyvät tiedot ja materiaalit:** Voisin esittää OneDrive-kansion tai muun tallennuspaikan.
+
+**GitHub:** Voisin esittää linkin kurssiin liittyvään GitHub-repositorioon.
 
 **Sidosryhmä 1**.: Minä itse
 
@@ -54,7 +69,7 @@ Todiste: Kurssin ohjeiden noudattaminen, sekä dokumentointi.
 
 Tarve: Käyttäjätilien turvallisuus, asianmukainen palveluiden käyttö ja käyttöehtojen noudattaminen.
 
-ISO 27001 -viite: Parantaminen/Toiminta.
+ISO 27001 -viite: Toiminta.
 
 Todiste: MFA käyttö sekä tilien turvallisuusasetukset
 
