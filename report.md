@@ -41,6 +41,8 @@ Visualisoitu:
 
 **GitHub:** Voisin esittää linkin kurssiin liittyvään GitHub-repositorioon.
 
+
+
 **Sidosryhmä 1**.: Minä itse
 
 Tarve: Kurssitietojen ja -tehtävien säilyminen sekä harjoittelun jatkuvuus.
