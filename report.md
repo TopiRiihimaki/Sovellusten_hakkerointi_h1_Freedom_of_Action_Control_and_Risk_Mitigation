@@ -22,7 +22,7 @@ Oman ISMS-ympäristöni keskeinen raja sijaitsee kotiverkon ja internetin välil
 
 Visualisoitu:
 
-![Verkkokaavio](Kuva.png)
+![Verkkokaavio](kaavio.png)
 <p></p>
 
 **Evidence Addendum:**
